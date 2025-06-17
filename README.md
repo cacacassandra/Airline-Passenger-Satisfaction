@@ -17,10 +17,10 @@ Analyzed airline passenger survey data through four key tasks:
 
 ## 🧰 Tools & Technologies
 
-- **Languages**: Python
-- **Frameworks**: PySpark, Spark MLlib
-- **Libraries**: pandas, matplotlib, seaborn, scikit-learn
-- **Platform**: Jupyter Notebook
+- **Languages**: Python  
+- **Frameworks**: PySpark, Spark MLlib  
+- **Libraries**: pandas, matplotlib, seaborn, scikit-learn  
+- **Platform**: Jupyter Notebook  
 
 ---
 
@@ -30,11 +30,29 @@ Analyzed airline passenger survey data through four key tasks:
 
 ---
 
+## 📊 Visualizations
+
+### 🎯 Feature Importance (Random Forest)
+
+Identified the most influential features for predicting satisfaction.
+
+![Feature Importance](figures/feature_importance.png)
+
+---
+
+### 🎯 K-means Clustering Results
+
+Visualized passenger segmentation by delay tolerance and satisfaction.
+
+![K-means Clusters](figures/kmeans_clusters.png)
+
+---
+
 ## 📈 Key Outcomes
 
-- Built scalable models with Spark to analyze millions of records efficiently
-- Identified top drivers of satisfaction (e.g., inflight service, cleanliness)
-- Produced clear visualizations and insights to support airline decision-making
+- Built scalable models with Spark to analyze millions of records efficiently  
+- Identified top drivers of satisfaction (e.g., inflight service, cleanliness)  
+- Produced clear visualizations and insights to support airline decision-making  
 
 ---
 
